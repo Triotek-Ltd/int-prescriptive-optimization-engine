@@ -1,0 +1,32 @@
+[
+  {
+    "module_code": "int2_2",
+    "module_label": "INT.2.2 - Optimization Computation",
+    "module_title": "Optimization Computation",
+    "module_slug": "optimization_computation",
+    "app_code": "int2",
+    "app_label": "INT 2 - Prescriptive Optimization Engine",
+    "bundle_code": "int",
+    "source_md_path": "doc/rnd/plugs/int/int1.md"
+  },
+  {
+    "module_code": "int2_3",
+    "module_label": "INT.2.3 - Recommendation Logging",
+    "module_title": "Recommendation Logging",
+    "module_slug": "recommendation_logging",
+    "app_code": "int2",
+    "app_label": "INT 2 - Prescriptive Optimization Engine",
+    "bundle_code": "int",
+    "source_md_path": "doc/rnd/plugs/int/int1.md"
+  },
+  {
+    "module_code": "int2_1",
+    "module_label": "INT.2.1 - Scenario Modeling",
+    "module_title": "Scenario Modeling",
+    "module_slug": "scenario_modeling",
+    "app_code": "int2",
+    "app_label": "INT 2 - Prescriptive Optimization Engine",
+    "bundle_code": "int",
+    "source_md_path": "doc/rnd/plugs/int/int1.md"
+  }
+]
